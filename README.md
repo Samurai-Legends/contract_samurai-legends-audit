@@ -1,18 +1,7 @@
 # Overview
-Contracts that will be submitted for auditing.
 
-Note that contracts are not final.
+NOTICE:
 
-# Contracts
+THIS REPO IS OUT OF DATE
 
-## SamuraiLegends.sol
-
-Base token for Samurai Legends.
-
-## Koku.sol
-
-Reward token for Samurai Legends ecosystem. Time-based mint limits.
-
-## SamuraiLegendsStaking.sol
-
-Staking contract for auto-compounding rewards. With time-delay withdrawal.
+Instead refer to https://github.com/Samurai-Legends/contract_samurai-legends-tokens
